@@ -1,5 +1,5 @@
 ### 👋 Привет! Меня зовут Вадим Мальгин.
-**Middle+/Senior Frontend Developer (React, TypeScript, Architecture)**
+**Senior Frontend Developer (React, TypeScript, Architecture)**
 
 📍 Москва
 
